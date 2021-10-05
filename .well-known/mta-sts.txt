@@ -1,5 +1,5 @@
 version: STSv1
-      mode: testing
+      mode:testing
       mx: mx0.mail.ovh.net
       mx: mx1.mail.ovh.net
       mx: mx2.mail.ovh.net
